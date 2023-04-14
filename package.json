@@ -14,8 +14,8 @@
   },
   "type": "module",
   "dependencies": {
-    "@evidence-dev/components": "^2.3.0",
-    "@evidence-dev/evidence": "^16.0.0",
-    "@evidence-dev/preprocess": "^2.3.0"
+    "@evidence-dev/components": "next",
+    "@evidence-dev/evidence": "next",
+    "@evidence-dev/preprocess": "next"
   }
 }
